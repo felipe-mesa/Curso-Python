@@ -5,6 +5,6 @@ En este repositiorio podrán encontrar códigos en Python para distintas tareas 
 
 ## Módulos
 
-- Web scraping
+- [Web scraping](path%20with%20spaces/)
 - Visualizacion de datos
 - Machine Learning
